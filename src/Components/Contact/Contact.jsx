@@ -39,13 +39,13 @@ const Contact = () => {
         <div className="contact-section">
             <div className="contact-left">
                 <h1>Let's talk</h1>
-                <p>I'm currently avaliable to take on new projects, so feel free to send me a message about anything that you want me to work on. You can contact anytime.</p>
+                <p>I'm current looking for full time position. You can contact anytime.</p>
                 <div className="contact-details">
                     <div className="contact-detail">
-                        <img src={mail_icon} alt="" /><p>greatstackdev@gmail.com</p>
+                        <img src={mail_icon} alt="" /><p>khanghuynh8078@gmail.com</p>
                     </div>
                     <div className="contact-detail">
-                        <img src={call_icon} alt="" /><p>+111-111-111</p>
+                        <img src={call_icon} alt="" /><p>+510-978-3039</p>
                     </div>
                     <div className="contact-detail">
                         <img src={location_icon} alt="" /><p>CA, United States</p>
