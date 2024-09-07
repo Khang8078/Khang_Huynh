@@ -18,8 +18,8 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>I am an experienced Frontend Developer with over a decade of professional expertise in the field. Throughout my career, I have had the privilege of collaborating with prestigious organizations, contributing to their success and growth.</p>                </div>
-                    <p>My passion for frontend development is not only reflected in my extensive experience but also in the enthusiasm and dedication I bring to each project.</p>
+                    <p>I am a front-end developer passionate about creating responsive, user-friendly web applications. With a solid foundation in HTML, CSS, and JavaScript, I specialize in building clean, efficient, and accessible interfaces. I have experience working with modern frameworks like React.</p>                </div>
+                    <p>I am eager to contribute to a dynamic team where I can continue to learn and grow while delivering impactful user experiences. I graduated from San Jose State University with a strong GPA of 4.0, I am looking for internships or full-time roles.</p>
                     <div className="about-skills">
                 <div className="about-skill">
                     <p>HTML & CSS</p><hr style={{width:"50%"}}/>

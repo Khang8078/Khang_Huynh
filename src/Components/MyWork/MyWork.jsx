@@ -16,10 +16,9 @@ const MyWork = () => {
                 return <img key={index} src={work.w_img} alt="" />
             })}
         </div>
-         <div className="mywork-showmore">
-            <p>Show More</p>
-            <img src={arrow_icon} alt="" />
-         </div>
+         <a href="https://github.com/Khang8078" target="_blank" rel="noopener noreferrer"><div className="mywork-showmore">Show More<img src={arrow_icon} alt="" />
+        </div></a>
+          
     </div>
   )
 }
